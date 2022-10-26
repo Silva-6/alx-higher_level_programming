@@ -1,6 +1,6 @@
 # 0x0B. Python - Input/Output
 
-In this project I learnt to read/write files and working with json files in python
+# In This Project:
 
 ## Concepts learnt
 - How to open a file
@@ -17,9 +17,9 @@ In this project I learnt to read/write files and working with json files in pyth
 - How to convert a JSON string to a Python data structure
 
 
-## Resources used
--[Python Documentation](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
-- [Book](https://automatetheboringstuff.com/)
-- [Youtube](https://www.youtube.com/watch?v=EukxMIsNeqU)
+## Resources use
+-[Python Documentation - Reading and writing files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+- [Book - Automate the boring stuff with python](https://automatetheboringstuff.com/)
+- [Youtube - Learn to program](https://www.youtube.com/watch?v=EukxMIsNeqU)
 - [realpython.com](https://realpython.com/lessons/python-unicode-overview/)
 - [JSON Serialization/Deserialization](https://realpython.com/python-json/)
